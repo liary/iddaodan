@@ -1,16 +1,16 @@
 # idaodan -- a blog all in javascript
 
 ##before
-> I have bought a domain name which is 'idaodan.com' ever since I was in high school, ¥59 per year for me is not a small number, but now we get along for more than six year, It's amazing! I do believe that 'idaodan.com' will accompany me for the rest of my life.
-> Over the past few years, sometimes 'idaodan.com' is a news sites which based on cms, previously it just a static pages which all html, css, javascript written by myself.
-> Also, it had become a dynamic site at the excellent framework(wordpress / hexo), but now I want to build a dynamic site by myself instead of click some button to get the all.
+> - I have bought a domain name which is 'idaodan.com' ever since I was in high school, ¥59 per year for me is not a small number, but now we get along for more than six year, It's amazing! I do believe that 'idaodan.com' will accompany me for the rest of my life.
+- Over the past few years, sometimes 'idaodan.com' is a news sites which based on cms, previously it just a static pages which all html, css, javascript written by myself.
+- Also, it had become a dynamic site at the excellent framework(wordpress / hexo), but now I want to build a dynamic site by myself instead of click some button to get the all.
 
 ##now
 - finished database
 - finished routes
 
 - writting static sites
-- writting http function
+- writting http method
 
 - conception how to edit blog(use markdown or rich text)
 
