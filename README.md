@@ -15,7 +15,7 @@
 - conception how to edit blog(use markdown or rich text)
 
 ##last
-a blog all in javascript, which reminded me of a bit small excitement ^-^
+a blog all in javascript, which reminded me of a little bit excitement ^-^
 
 ##last X 2
 英语不好如我还要写了这么多，万分抱歉，如有不服，brihanono@gmail.com求单(zhi)挑(dao)
