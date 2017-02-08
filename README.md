@@ -1,4 +1,4 @@
-# idaodan -- a blog all in javascript
+# iblog -- a blog all in javascript
 
 ##before
 > - I have bought a domain name which is 'idaodan.com' ever since I was in high school, ¥59 per year for me is not a small number, but now we get along for more than six year, It's amazing! I do believe that 'idaodan.com' will accompany me for the rest of my life.
